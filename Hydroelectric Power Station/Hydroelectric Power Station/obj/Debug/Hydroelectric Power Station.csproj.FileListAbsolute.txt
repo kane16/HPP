@@ -1,0 +1,12 @@
+D:\Informatyka\ZMPO\Hydroelectric Power Station\Hydroelectric Power Station\bin\Debug\Hydroelectric Power Station.exe.config
+D:\Informatyka\ZMPO\Hydroelectric Power Station\Hydroelectric Power Station\bin\Debug\Hydroelectric Power Station.exe
+D:\Informatyka\ZMPO\Hydroelectric Power Station\Hydroelectric Power Station\bin\Debug\Hydroelectric Power Station.pdb
+D:\Informatyka\ZMPO\Hydroelectric Power Station\Hydroelectric Power Station\obj\Debug\Hydroelectric Power Station.csprojResolveAssemblyReference.cache
+D:\Informatyka\ZMPO\Hydroelectric Power Station\Hydroelectric Power Station\obj\Debug\Hydroelectric Power Station.exe
+D:\Informatyka\ZMPO\Hydroelectric Power Station\Hydroelectric Power Station\obj\Debug\Hydroelectric Power Station.pdb
+D:\Informatyka\Hydroelectric Power Station\Hydroelectric Power Station\bin\Debug\Hydroelectric Power Station.exe.config
+D:\Informatyka\Hydroelectric Power Station\Hydroelectric Power Station\obj\Debug\Hydroelectric Power Station.exe
+D:\Informatyka\Hydroelectric Power Station\Hydroelectric Power Station\obj\Debug\Hydroelectric Power Station.pdb
+D:\Informatyka\Hydroelectric Power Station\Hydroelectric Power Station\bin\Debug\Hydroelectric Power Station.exe
+D:\Informatyka\Hydroelectric Power Station\Hydroelectric Power Station\bin\Debug\Hydroelectric Power Station.pdb
+D:\Informatyka\Hydroelectric Power Station\Hydroelectric Power Station\obj\Debug\Hydroelectric Power Station.csprojResolveAssemblyReference.cache
